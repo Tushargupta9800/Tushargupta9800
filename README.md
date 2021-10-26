@@ -56,6 +56,10 @@
 | --- | --- |
 | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tushargupta9800&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=Tushargupta9800&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
 
+ </p>
+<p align="center"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;Git profile Trophies</p><br>
+<img src="https://github-profile-trophy.vercel.app/?username=Tushargupta9800&theme=gruvbox" />
+ 
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)
 
 
