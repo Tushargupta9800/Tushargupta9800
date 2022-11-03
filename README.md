@@ -6,15 +6,14 @@
 <p align='center'>
 </p>
 
-
 ![Profile views](https://visitor-badge.glitch.me/badge?page_id=Tushargupta9800.Tushargupta9800)
 [![Github](https://img.shields.io/github/followers/Tushargupta9800?label=Follow&style=social)](https://github.com/Tushargupta9800)
 
 <div size='20px'> Hi! My name is Tushar Gupta aka Algoristy. Thank You for taking the time to view my GitHub Profile :smile: 
 </div>
-
+ 
 <h2> About Me <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px></h2>
-
+ 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 
@@ -50,6 +49,8 @@
 <br>
   <br>
   
+[![@algoristy's Holopin board](https://holopin.me/algoristy)](https://holopin.io/@algoristy)
+ 
 [![Tushar's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Tushargupta9800&theme=tokyonight)](https://git.io/praveenscience)
 
 | ![Tushar's github stats](https://github-readme-stats.vercel.app/api?username=Tushargupta9800&show_icons=true&theme=tokyonight) | ![Tushar GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Tushargupta9800&theme=tokyonight) |
